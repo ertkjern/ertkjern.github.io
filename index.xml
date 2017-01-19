@@ -10,16 +10,16 @@
     <atom:link href="https://ertkjern.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My first blog post! Using Hugo!</title>
+      <title>My first blog post!</title>
       <link>https://ertkjern.github.io/post/my-first-blog-post/</link>
       <pubDate>Tue, 17 Jan 2017 20:30:24 +0200</pubDate>
       
       <guid>https://ertkjern.github.io/post/my-first-blog-post/</guid>
       <description>&lt;p&gt;I have decided to try this thing known as blogging. Not because I feel the need to share what I do with anyone, but mostly for learning.
-When I look at a new programming languages, tools, frameworks or anything, I will sometimes write a small blog post, right here, or maybe a tiny tutorial.
-By doing this I can allways come back to the blog and use it as a reference, or maybe someone else might learn or find any of my blog posts interesting.&lt;/p&gt;
+When I look at new programming languages, tools&amp;rsquo;, frameworks or anything, I will sometimes write a small blog post, right here, or maybe a tiny tutorial.
+By doing this I can always come back to the blog and use it as a reference, or maybe someone else might learn or find any of my blog posts interesting.&lt;/p&gt;
 
-&lt;p&gt;As you have probarbly figured out, this blog post will mostly contain tech related topics. And since this blog post is built on a static web page generator known as Hugo,
+&lt;p&gt;As you have probably figured out, this blog post will mostly contain tech related topics. And since this blog post is built on a static web page generator known as Hugo,
 the next post will be about that.&lt;/p&gt;
 
 &lt;p&gt;I hope you will enjoy my writings, if not, I will enjoy it myself!&lt;/p&gt;

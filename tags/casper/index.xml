@@ -14,12 +14,16 @@
       <pubDate>Tue, 17 Jan 2017 20:30:24 +0200</pubDate>
       
       <guid>https://ertkjern.github.io/post/my-first-blog-post/</guid>
-      <description>&lt;p&gt;I have decided to try doing some blogging. Not because I feel the need to share what I do with someone, but mostly for my own learning. The blog will therefore mainly contain
-tech related posts. Me trying and figuring out different programming languages, tools or anything tech releated and sharing my opinion. Mainly for self learning, but also for others to enjoy.&lt;/p&gt;
+      <description>&lt;p&gt;I have decided to try this thing known as blogging. Not because I feel the need to share what I do with anyone, but mostly for learning.
+When I look at a new programming languages, tools, frameworks or anything, I will sometimes write a small blog post, right here, or maybe a tiny tutorial.
+By doing this I can allways come back to the blog and use it as a reference, or maybe someone else might learn or find any of my blog posts interesting.&lt;/p&gt;
 
-&lt;p&gt;Either if I am writing this only for me, or if there acctualy are any readers of this blog: I hope you like it!&lt;/p&gt;
+&lt;p&gt;As you have probarbly figured out, this blog post will mostly contain tech related topics. And since this blog post is built on a static web page generator known as Hugo,
+the next post will be about that.&lt;/p&gt;
 
-&lt;p&gt;Creating this blog I was using a static web page generator known as Hugo.&lt;/p&gt;
+&lt;p&gt;I hope you will enjoy my writings, if not, I will enjoy it myself!&lt;/p&gt;
+
+&lt;p&gt;Have a great day!&lt;/p&gt;
 </description>
     </item>
     
